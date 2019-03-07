@@ -2,9 +2,9 @@
 
 ## Installation:
 
--- If you already do not have Python3, install the latest version of Python3 from [here](www.python.org).
--- From the command line run:
-- `pip3 install opencv-python`
+- If you already do not have Python3, install the latest version of Python3 from [here](www.python.org).
+- From the command line run:
+ `pip3 install opencv-python`
 
 ## General introduction
 
